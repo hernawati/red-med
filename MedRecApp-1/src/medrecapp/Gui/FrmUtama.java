@@ -38,6 +38,10 @@ public class FrmUtama extends javax.swing.JFrame {
         menuFile = new javax.swing.JMenu();
         menuMaster = new javax.swing.JMenu();
         menuPasien = new javax.swing.JMenuItem();
+        menuSpesialis = new javax.swing.JMenuItem();
+        menuDokter = new javax.swing.JMenuItem();
+        menuJaminan = new javax.swing.JMenuItem();
+        menuObat = new javax.swing.JMenuItem();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
@@ -55,6 +59,38 @@ public class FrmUtama extends javax.swing.JFrame {
             }
         });
         menuMaster.add(menuPasien);
+
+        menuSpesialis.setText("Data Spesialis");
+        menuSpesialis.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                menuSpesialisActionPerformed(evt);
+            }
+        });
+        menuMaster.add(menuSpesialis);
+
+        menuDokter.setText("Data Dokter");
+        menuDokter.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                menuDokterActionPerformed(evt);
+            }
+        });
+        menuMaster.add(menuDokter);
+
+        menuJaminan.setText("Data Jaminan");
+        menuJaminan.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                menuJaminanActionPerformed(evt);
+            }
+        });
+        menuMaster.add(menuJaminan);
+
+        menuObat.setText("Data Obat");
+        menuObat.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                menuObatActionPerformed(evt);
+            }
+        });
+        menuMaster.add(menuObat);
 
         jMenuBar1.add(menuMaster);
 
@@ -74,6 +110,17 @@ public class FrmUtama extends javax.swing.JFrame {
         pack();
     }// </editor-fold>//GEN-END:initComponents
 
+    private void menuSpesialisActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_menuSpesialisActionPerformed
+        // TODO add your handling code here:
+        FrmIntSpesialis fis = new FrmIntSpesialis();
+        Dimension parentSize = jDesktopPane1.getSize();
+        Dimension childSize = fis.getSize();
+        fis.setLocation((parentSize.width - childSize.width) / 2, (parentSize.height - childSize.height) / 2);
+        jDesktopPane1.add(fis);
+        fis.show();
+        fis.toFront();
+    }//GEN-LAST:event_menuSpesialisActionPerformed
+
     private void menuPasienActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_menuPasienActionPerformed
         // TODO add your handling code here:
         FrmIntPasien fip = new FrmIntPasien();
@@ -85,6 +132,39 @@ public class FrmUtama extends javax.swing.JFrame {
         fip.show();
         fip.toFront();
     }//GEN-LAST:event_menuPasienActionPerformed
+
+    private void menuDokterActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_menuDokterActionPerformed
+        // TODO add your handling code here:
+        FrmIntDokter fis = new FrmIntDokter();
+        Dimension parentSize = jDesktopPane1.getSize();
+        Dimension childSize = fis.getSize();
+        fis.setLocation((parentSize.width - childSize.width) / 2, (parentSize.height - childSize.height) / 2);
+        jDesktopPane1.add(fis);
+        fis.show();
+        fis.toFront();
+    }//GEN-LAST:event_menuDokterActionPerformed
+
+    private void menuJaminanActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_menuJaminanActionPerformed
+        // TODO add your handling code here:
+        FrmIntJaminan fis = new FrmIntJaminan();
+        Dimension parentSize = jDesktopPane1.getSize();
+        Dimension childSize = fis.getSize();
+        fis.setLocation((parentSize.width - childSize.width) / 2, (parentSize.height - childSize.height) / 2);
+        jDesktopPane1.add(fis);
+        fis.show();
+        fis.toFront();
+    }//GEN-LAST:event_menuJaminanActionPerformed
+
+    private void menuObatActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_menuObatActionPerformed
+        // TODO add your handling code here:
+        FrmIntObat fis = new FrmIntObat();
+        Dimension parentSize = jDesktopPane1.getSize();
+        Dimension childSize = fis.getSize();
+        fis.setLocation((parentSize.width - childSize.width) / 2, (parentSize.height - childSize.height) / 2);
+        jDesktopPane1.add(fis);
+        fis.show();
+        fis.toFront();
+    }//GEN-LAST:event_menuObatActionPerformed
 
     /**
     * @param args the command line arguments
@@ -100,9 +180,13 @@ public class FrmUtama extends javax.swing.JFrame {
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JDesktopPane jDesktopPane1;
     private javax.swing.JMenuBar jMenuBar1;
+    private javax.swing.JMenuItem menuDokter;
     private javax.swing.JMenu menuFile;
+    private javax.swing.JMenuItem menuJaminan;
     private javax.swing.JMenu menuMaster;
+    private javax.swing.JMenuItem menuObat;
     private javax.swing.JMenuItem menuPasien;
+    private javax.swing.JMenuItem menuSpesialis;
     // End of variables declaration//GEN-END:variables
 
 }

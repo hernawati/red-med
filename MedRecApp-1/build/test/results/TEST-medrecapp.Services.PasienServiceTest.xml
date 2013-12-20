@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite errors="0" failures="0" hostname="tikes03-PC" name="medrecapp.Services.PasienServiceTest" skipped="0" tests="3" time="325.372" timestamp="2013-12-20T15:33:24">
+<testsuite errors="0" failures="0" hostname="tikes03-PC" name="medrecapp.Services.PasienServiceTest" skipped="0" tests="3" time="2.195" timestamp="2013-12-20T15:37:45">
   <properties>
     <property name="default.javac.source" value="1.6" />
     <property name="file.encoding.pkg" value="sun.io" />
-    <property name="ant.file.MedRecApp-impl" value="D:\Java App Continuous Integration\MedRecApp-1\nbproject\build-impl.xml" />
+    <property name="ant.file.MedRecApp-impl" value="D:\Java App Continuous Integration\MedRecApp-2\nbproject\build-impl.xml" />
     <property name="libs.toplink.maven-pom" value="" />
     <property name="javac.source" value="1.5" />
     <property name="java.home" value="C:\Program Files\Java\jdk1.6.0_21\jre" />
@@ -11,11 +11,11 @@
     <property name="test.src.dir" value="test" />
     <property name="libs.jaxws21.src" value="" />
     <property name="javadoc.version" value="false" />
-    <property name="libs.CopyLibs.classpath" value="D:/Java App Continuous Integration/MedRecApp-1/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar" />
+    <property name="libs.CopyLibs.classpath" value="D:/Java App Continuous Integration/MedRecApp-2/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar" />
     <property name="libs.javac-api.src" value="" />
-    <property name="libraries.path" value="D:\Java App Continuous Integration\MedRecApp-1\lib\nblibraries.properties" />
+    <property name="libraries.path" value="D:\Java App Continuous Integration\MedRecApp-2\lib\nblibraries.properties" />
     <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.6.0_21\jre\lib\endorsed" />
-    <property name="libs.MySQLDriver.classpath" value="D:/Java App Continuous Integration/MedRecApp-1/lib/MySQLDriver/mysql-connector-java-5.1.6-bin.jar" />
+    <property name="libs.MySQLDriver.classpath" value="D:/Java App Continuous Integration/MedRecApp-2/lib/MySQLDriver/mysql-connector-java-5.1.6-bin.jar" />
     <property name="libs.jaxb.javadoc" value="C:\Program Files\NetBeans 6.9.1\ide\docs\jaxb-api-doc.zip" />
     <property name="libs.junit.maven-pom" value="" />
     <property name="libs.PostgreSQLDriver.src" value="" />
@@ -32,7 +32,7 @@
     <property name="java.vendor.url" value="http://java.sun.com/" />
     <property name="java.version" value="1.6.0_21" />
     <property name="javac.debug" value="true" />
-    <property name="run.classpath" value="D:/Java App Continuous Integration/MedRecApp-1/lib/MySQLDriver/mysql-connector-java-5.1.6-bin.jar:lib\CopyLibs\org-netbeans-modules-java-j2seproject-copylibstask.jar:lib\junit\junit-3.8.2.jar:lib\MySQLDriver\mysql-connector-java-5.1.6-bin.jar:build/classes" />
+    <property name="run.classpath" value="D:/Java App Continuous Integration/MedRecApp-2/lib/MySQLDriver/mysql-connector-java-5.1.6-bin.jar:lib\CopyLibs\org-netbeans-modules-java-j2seproject-copylibstask.jar:lib\junit\junit-3.8.2.jar:lib\MySQLDriver\mysql-connector-java-5.1.6-bin.jar:build/classes" />
     <property name="libs.PostgreSQLDriver.maven-pom" value="" />
     <property name="java.vendor.url.bug" value="http://java.sun.com/cgi-bin/bugreport.cgi" />
     <property name="libs.eclipselink.javadoc" value="" />
@@ -44,7 +44,7 @@
     <property name="libs.swing-app-framework.maven-pom" value="" />
     <property name="user.name" value="tikes03" />
     <property name="manifest.available+main.class+mkdist.available" value="true" />
-    <property name="empty.dir" value="D:\Java App Continuous Integration\MedRecApp-1\build\empty" />
+    <property name="empty.dir" value="D:\Java App Continuous Integration\MedRecApp-2\build\empty" />
     <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
     <property name="ant.file.type.MedRecApp" value="file" />
     <property name="sun.jnu.encoding" value="Cp1252" />
@@ -57,7 +57,7 @@
     <property name="manifest.available" value="true" />
     <property name="libs.spring-framework.maven-pom" value="" />
     <property name="libs.swing-layout.maven-pom" value="" />
-    <property name="libs.junit.javadoc" value="D:/Java App Continuous Integration/MedRecApp-1/lib/junit/junit-3.8.2-api.zip" />
+    <property name="libs.junit.javadoc" value="D:/Java App Continuous Integration/MedRecApp-2/lib/junit/junit-3.8.2-api.zip" />
     <property name="path.separator" value=";" />
     <property name="version-output" value="java version &quot;1.6" />
     <property name="libs.ejb3-persistence.src" value="" />
@@ -69,10 +69,10 @@
     <property name="ant.project.default-target" value="default" />
     <property name="libs.hibernate-persistence.javadoc" value="" />
     <property name="libs.ejb3-persistence.classpath" value="C:\Program Files\NetBeans 6.9.1\java\modules\ext\hibernate\ejb3-persistence.jar" />
-    <property name="built-jar.properties" value="D:\Java App Continuous Integration\MedRecApp-1\build\built-jar.properties" />
+    <property name="built-jar.properties" value="D:\Java App Continuous Integration\MedRecApp-2\build\built-jar.properties" />
     <property name="libs.junit.src" value="" />
-    <property name="ant.file" value="D:\Java App Continuous Integration\MedRecApp-1\build.xml" />
-    <property name="libs.junit_4.src" value="D:/Java App Continuous Integration/MedRecApp-1/lib/junit_4/junit-4.5-src.jar" />
+    <property name="ant.file" value="D:\Java App Continuous Integration\MedRecApp-2\build.xml" />
+    <property name="libs.junit_4.src" value="D:/Java App Continuous Integration/MedRecApp-2/lib/junit_4/junit-4.5-src.jar" />
     <property name="java.io.tmpdir" value="C:\Users\tikes03\AppData\Local\Temp\" />
     <property name="build.test.results.dir" value="build/test/results" />
     <property name="user.language" value="en" />
@@ -100,7 +100,7 @@
     <property name="platform.active" value="default_platform" />
     <property name="ap.cmd.line.internal" value="" />
     <property name="libs.spring-framework300.classpath" value="C:\Program Files\NetBeans 6.9.1\ide\modules\ext\commons-logging-1.1.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\cglib-2.2.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\spring-3.0\spring-aop-3.0.2.RELEASE.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\spring-3.0\spring-asm-3.0.2.RELEASE.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\spring-3.0\spring-aspects-3.0.2.RELEASE.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\spring-3.0\spring-beans-3.0.2.RELEASE.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\spring-3.0\spring-context-3.0.2.RELEASE.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\spring-3.0\spring-context-support-3.0.2.RELEASE.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\spring-3.0\spring-core-3.0.2.RELEASE.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\spring-3.0\spring-expression-3.0.2.RELEASE.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\spring-3.0\spring-instrument-3.0.2.RELEASE.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\spring-3.0\spring-instrument-tomcat-3.0.2.RELEASE.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\spring-3.0\spring-jdbc-3.0.2.RELEASE.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\spring-3.0\spring-jms-3.0.2.RELEASE.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\spring-3.0\spring-orm-3.0.2.RELEASE.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\spring-3.0\spring-oxm-3.0.2.RELEASE.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\spring-3.0\spring-test-3.0.2.RELEASE.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\spring-3.0\spring-tx-3.0.2.RELEASE.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\spring-3.0\spring-web-3.0.2.RELEASE.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\spring-3.0\spring-webmvc-portlet-3.0.2.RELEASE.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\spring-3.0\spring-webmvc-3.0.2.RELEASE.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\spring-3.0\spring-struts-3.0.2.RELEASE.jar" />
-    <property name="libs.junit_4.javadoc" value="D:/Java App Continuous Integration/MedRecApp-1/lib/junit_4/junit-4.5-api.zip" />
+    <property name="libs.junit_4.javadoc" value="D:/Java App Continuous Integration/MedRecApp-2/lib/junit_4/junit-4.5-api.zip" />
     <property name="libs.spring-framework.src" value="" />
     <property name="libs.beans-binding.maven-pom" value="" />
     <property name="do.mkdist" value="true" />
@@ -115,7 +115,7 @@
     <property name="libs.JWSAntTasks.classpath" value="C:\Program Files\NetBeans 6.9.1\java\ant\extra\org-netbeans-modules-javawebstart-anttasks.jar" />
     <property name="libs.toplink.classpath" value="C:\Program Files\NetBeans 6.9.1\java\modules\ext\toplink\toplink-essentials.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\toplink\toplink-essentials-agent.jar" />
     <property name="file.reference.org-netbeans-modules-java-j2seproject-copylibstask.jar" value="lib\CopyLibs\org-netbeans-modules-java-j2seproject-copylibstask.jar" />
-    <property name="ant.file.MedRecApp" value="D:\Java App Continuous Integration\MedRecApp-1\build.xml" />
+    <property name="ant.file.MedRecApp" value="D:\Java App Continuous Integration\MedRecApp-2\build.xml" />
     <property name="libs.spring-framework.javadoc" value="" />
     <property name="annotation.processing.source.output" value="build/generated-sources/ap-source-output" />
     <property name="libs.CopyLibs.maven-pom" value="" />
@@ -123,33 +123,33 @@
     <property name="libs.eclipselink.maven-pom" value="" />
     <property name="os.name" value="Windows 7" />
     <property name="java.specification.vendor" value="Sun Microsystems Inc." />
-    <property name="run.test.classpath" value="D:/Java App Continuous Integration/MedRecApp-1/lib/MySQLDriver/mysql-connector-java-5.1.6-bin.jar:lib\CopyLibs\org-netbeans-modules-java-j2seproject-copylibstask.jar:lib\junit\junit-3.8.2.jar:lib\MySQLDriver\mysql-connector-java-5.1.6-bin.jar:build/classes:D:/Java App Continuous Integration/MedRecApp-1/lib/junit_4/junit-4.5.jar:build/test/classes" />
+    <property name="run.test.classpath" value="D:/Java App Continuous Integration/MedRecApp-2/lib/MySQLDriver/mysql-connector-java-5.1.6-bin.jar:lib\CopyLibs\org-netbeans-modules-java-j2seproject-copylibstask.jar:lib\junit\junit-3.8.2.jar:lib\MySQLDriver\mysql-connector-java-5.1.6-bin.jar:build/classes:D:/Java App Continuous Integration/MedRecApp-2/lib/junit_4/junit-4.5.jar:build/test/classes" />
     <property name="java.vm.name" value="Java HotSpot(TM) Client VM" />
     <property name="libs.CopyLibs.src" value="" />
-    <property name="libs.junit.classpath" value="D:/Java App Continuous Integration/MedRecApp-1/lib/junit/junit-3.8.2.jar" />
+    <property name="libs.junit.classpath" value="D:/Java App Continuous Integration/MedRecApp-2/lib/junit/junit-3.8.2.jar" />
     <property name="libs.beans-binding.src" value="" />
     <property name="java.library.path" value="C:\Program Files\Java\jdk1.6.0_21\jre\bin;.;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jre7\bin;C:\Program Files\Java\jdk1.6.0_21\bin;D:\TA\ant\bin;C:\Program Files\TortoiseGit\bin;C:\Program Files\TortoiseSVN\bin" />
     <property name="libs.PostgreSQLDriver.javadoc" value="" />
     <property name="do.archive+manifest.available+main.class+mkdist.available" value="true" />
     <property name="libs.toplink.javadoc" value="" />
     <property name="ant.java.version" value="1.6" />
-    <property name="basedir" value="D:\Java App Continuous Integration\MedRecApp-1" />
+    <property name="basedir" value="D:\Java App Continuous Integration\MedRecApp-2" />
     <property name="javadoc.noindex" value="false" />
     <property name="java.class.version" value="50.0" />
-    <property name="javac.test.classpath" value="D:/Java App Continuous Integration/MedRecApp-1/lib/MySQLDriver/mysql-connector-java-5.1.6-bin.jar:lib\CopyLibs\org-netbeans-modules-java-j2seproject-copylibstask.jar:lib\junit\junit-3.8.2.jar:lib\MySQLDriver\mysql-connector-java-5.1.6-bin.jar:build/classes:D:/Java App Continuous Integration/MedRecApp-1/lib/junit_4/junit-4.5.jar" />
-    <property name="javac.processorpath" value="D:/Java App Continuous Integration/MedRecApp-1/lib/MySQLDriver/mysql-connector-java-5.1.6-bin.jar:lib\CopyLibs\org-netbeans-modules-java-j2seproject-copylibstask.jar:lib\junit\junit-3.8.2.jar:lib\MySQLDriver\mysql-connector-java-5.1.6-bin.jar" />
+    <property name="javac.test.classpath" value="D:/Java App Continuous Integration/MedRecApp-2/lib/MySQLDriver/mysql-connector-java-5.1.6-bin.jar:lib\CopyLibs\org-netbeans-modules-java-j2seproject-copylibstask.jar:lib\junit\junit-3.8.2.jar:lib\MySQLDriver\mysql-connector-java-5.1.6-bin.jar:build/classes:D:/Java App Continuous Integration/MedRecApp-2/lib/junit_4/junit-4.5.jar" />
+    <property name="javac.processorpath" value="D:/Java App Continuous Integration/MedRecApp-2/lib/MySQLDriver/mysql-connector-java-5.1.6-bin.jar:lib\CopyLibs\org-netbeans-modules-java-j2seproject-copylibstask.jar:lib\junit\junit-3.8.2.jar:lib\MySQLDriver\mysql-connector-java-5.1.6-bin.jar" />
     <property name="ant.home" value="D:\TA\ant" />
     <property name="libs.hibernate-persistence.src" value="" />
     <property name="javadoc.splitindex" value="true" />
     <property name="libs.toplink.src" value="" />
-    <property name="javac.test.processorpath" value="D:/Java App Continuous Integration/MedRecApp-1/lib/MySQLDriver/mysql-connector-java-5.1.6-bin.jar:lib\CopyLibs\org-netbeans-modules-java-j2seproject-copylibstask.jar:lib\junit\junit-3.8.2.jar:lib\MySQLDriver\mysql-connector-java-5.1.6-bin.jar:build/classes:D:/Java App Continuous Integration/MedRecApp-1/lib/junit_4/junit-4.5.jar" />
+    <property name="javac.test.processorpath" value="D:/Java App Continuous Integration/MedRecApp-2/lib/MySQLDriver/mysql-connector-java-5.1.6-bin.jar:lib\CopyLibs\org-netbeans-modules-java-j2seproject-copylibstask.jar:lib\junit\junit-3.8.2.jar:lib\MySQLDriver\mysql-connector-java-5.1.6-bin.jar:build/classes:D:/Java App Continuous Integration/MedRecApp-2/lib/junit_4/junit-4.5.jar" />
     <property name="libs.javac-api.javadoc" value="" />
     <property name="javadoc.preview" value="true" />
     <property name="libs.MySQLDriver.maven-pom" value="" />
     <property name="libs.CopyLibs.javadoc" value="" />
     <property name="libs.PostgreSQLDriver.classpath" value="C:\Program Files\NetBeans 6.9.1\ide\modules\ext\postgresql-8.3-603.jdbc3.jar" />
     <property name="libs.jaxws21.maven-pom" value="" />
-    <property name="libs.junit_4.classpath" value="D:/Java App Continuous Integration/MedRecApp-1/lib/junit_4/junit-4.5.jar" />
+    <property name="libs.junit_4.classpath" value="D:/Java App Continuous Integration/MedRecApp-2/lib/junit_4/junit-4.5.jar" />
     <property name="build.dir" value="build" />
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.6.0_21\jre\bin" />
     <property name="libs.swing-app-framework.classpath" value="C:\Program Files\NetBeans 6.9.1\java\modules\ext\appframework-1.0.3.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\swing-worker-1.1.jar" />
@@ -157,7 +157,7 @@
     <property name="libs.ejb3-persistence.javadoc" value="" />
     <property name="user.variant" value="" />
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
-    <property name="libraries.dir.nativedirsep" value="D:\Java App Continuous Integration\MedRecApp-1\lib" />
+    <property name="libraries.dir.nativedirsep" value="D:\Java App Continuous Integration\MedRecApp-2\lib" />
     <property name="javadoc.encoding.used" value="UTF-8" />
     <property name="javadoc.windowtitle" value="" />
     <property name="libs.hibernate-support.src" value="" />
@@ -169,7 +169,7 @@
     <property name="libs.swing-layout.classpath" value="C:\Program Files\NetBeans 6.9.1\platform\modules\ext\swing-layout-1.0.4.jar" />
     <property name="java.vm.specification.version" value="1.0" />
     <property name="libs.jaxb.classpath" value="C:\Program Files\NetBeans 6.9.1\ide\modules\ext\jaxb\jaxb-impl.jar;C:\Program Files\NetBeans 6.9.1\ide\modules\ext\jaxb\jaxb-xjc.jar;C:\Program Files\NetBeans 6.9.1\ide\modules\ext\jaxb\jaxb1-impl.jar;C:\Program Files\NetBeans 6.9.1\ide\modules\ext\jaxb\activation.jar;C:\Program Files\NetBeans 6.9.1\ide\modules\ext\jaxb\api\jaxb-api.jar;C:\Program Files\NetBeans 6.9.1\ide\modules\ext\jaxb\api\jsr173_api.jar" />
-    <property name="work.dir" value="D:\Java App Continuous Integration\MedRecApp-1" />
+    <property name="work.dir" value="D:\Java App Continuous Integration\MedRecApp-2" />
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
     <property name="javadoc.use" value="true" />
     <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86" />
@@ -180,28 +180,28 @@
     <property name="libraries.basename" value="nblibraries" />
     <property name="java.vm.vendor" value="Sun Microsystems Inc." />
     <property name="libs.absolutelayout.maven-pom" value="" />
-    <property name="user.dir" value="D:\Java App Continuous Integration\MedRecApp-1" />
+    <property name="user.dir" value="D:\Java App Continuous Integration\MedRecApp-2" />
     <property name="debug-transport" value="dt_shmem" />
     <property name="libs.ejb3-persistence.maven-pom" value="" />
     <property name="application.args" value="" />
     <property name="sun.cpu.endian" value="little" />
     <property name="compile.on.save" value="true" />
     <property name="libs.hibernate-support.classpath" value="C:\Program Files\NetBeans 6.9.1\java\modules\ext\hibernate\antlr-2.7.6.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\hibernate\asm.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\hibernate\asm-attrs.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\hibernate\cglib-2.1.3.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\hibernate\commons-collections-2.1.1.jar;C:\Program Files\NetBeans 6.9.1\ide\modules\ext\commons-logging-1.1.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\hibernate\dom4j-1.6.1.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\hibernate\ehcache-1.2.3.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\hibernate\jdbc2_0-stdext.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\hibernate\jta.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\hibernate\hibernate3.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\hibernate\hibernate-tools.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\hibernate\hibernate-annotations.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\hibernate\hibernate-commons-annotations.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\hibernate\hibernate-entitymanager.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\hibernate\javassist.jar" />
-    <property name="endorsed.classpath.cmd.line.arg" value="-Xbootclasspath/p:&apos;D:\Java App Continuous Integration\MedRecApp-1\${endorsed.classpath}&apos;" />
+    <property name="endorsed.classpath.cmd.line.arg" value="-Xbootclasspath/p:&apos;D:\Java App Continuous Integration\MedRecApp-2\${endorsed.classpath}&apos;" />
     <property name="jar.index" value="false" />
     <property name="libs.spring-framework300.javadoc" value="" />
     <property name="libs.MySQLDriver.src" value="" />
-    <property name="libraries.dir" value="D:/Java App Continuous Integration/MedRecApp-1/lib" />
+    <property name="libraries.dir" value="D:/Java App Continuous Integration/MedRecApp-2/lib" />
     <property name="java.vm.version" value="17.0-b17" />
     <property name="libs.hibernate-persistence.classpath" value="C:\Program Files\NetBeans 6.9.1\java\modules\ext\hibernate\antlr-2.7.6.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\hibernate\asm.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\hibernate\asm-attrs.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\hibernate\cglib-2.1.3.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\hibernate\commons-collections-2.1.1.jar;C:\Program Files\NetBeans 6.9.1\ide\modules\ext\commons-logging-1.1.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\hibernate\dom4j-1.6.1.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\hibernate\ehcache-1.2.3.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\hibernate\jdbc2_0-stdext.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\hibernate\jta.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\hibernate\hibernate3.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\hibernate\hibernate-tools.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\hibernate\hibernate-annotations.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\hibernate\hibernate-commons-annotations.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\hibernate\hibernate-entitymanager.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\hibernate\javassist.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\hibernate\ejb3-persistence.jar" />
     <property name="annotation.processing.processor.options" value="" />
-    <property name="java.class.path" value="D:\Java App Continuous Integration\MedRecApp-1\lib\MySQLDriver\mysql-connector-java-5.1.6-bin.jar;D:\Java App Continuous Integration\MedRecApp-1\lib\CopyLibs\org-netbeans-modules-java-j2seproject-copylibstask.jar;D:\Java App Continuous Integration\MedRecApp-1\lib\junit\junit-3.8.2.jar;D:\Java App Continuous Integration\MedRecApp-1\build\classes;D:\Java App Continuous Integration\MedRecApp-1\lib\junit_4\junit-4.5.jar;D:\Java App Continuous Integration\MedRecApp-1\build\test\classes;D:\TA\ant\lib\ant-launcher.jar;D:\TA\ant\lib\ant.jar;D:\TA\ant\lib\ant-junit.jar;D:\TA\ant\lib\ant-junit4.jar" />
+    <property name="java.class.path" value="D:\Java App Continuous Integration\MedRecApp-2\lib\MySQLDriver\mysql-connector-java-5.1.6-bin.jar;D:\Java App Continuous Integration\MedRecApp-2\lib\CopyLibs\org-netbeans-modules-java-j2seproject-copylibstask.jar;D:\Java App Continuous Integration\MedRecApp-2\lib\junit\junit-3.8.2.jar;D:\Java App Continuous Integration\MedRecApp-2\build\classes;D:\Java App Continuous Integration\MedRecApp-2\lib\junit_4\junit-4.5.jar;D:\Java App Continuous Integration\MedRecApp-2\build\test\classes;D:\TA\ant\lib\ant-launcher.jar;D:\TA\ant\lib\ant.jar;D:\TA\ant\lib\ant-junit.jar;D:\TA\ant\lib\ant-junit4.jar" />
     <property name="ant.library.dir" value="D:\TA\ant\lib" />
     <property name="os.arch" value="x86" />
     <property name="javac.deprecation" value="false" />
     <property name="build.classes.excludes" value="**/*.java,**/*.form" />
     <property name="dist.dir" value="dist" />
-    <property name="debug.classpath" value="D:/Java App Continuous Integration/MedRecApp-1/lib/MySQLDriver/mysql-connector-java-5.1.6-bin.jar:lib\CopyLibs\org-netbeans-modules-java-j2seproject-copylibstask.jar:lib\junit\junit-3.8.2.jar:lib\MySQLDriver\mysql-connector-java-5.1.6-bin.jar:build/classes" />
+    <property name="debug.classpath" value="D:/Java App Continuous Integration/MedRecApp-2/lib/MySQLDriver/mysql-connector-java-5.1.6-bin.jar:lib\CopyLibs\org-netbeans-modules-java-j2seproject-copylibstask.jar:lib\junit\junit-3.8.2.jar:lib\MySQLDriver\mysql-connector-java-5.1.6-bin.jar:build/classes" />
     <property name="sun.java.launcher" value="SUN_STANDARD" />
     <property name="annotation.processing.enabled.in.editor" value="false" />
     <property name="ant.core.lib" value="D:\TA\ant\lib\ant.jar" />
@@ -209,8 +209,8 @@
     <property name="do.depend" value="false" />
     <property name="file.separator" value="\" />
     <property name="java.runtime.version" value="1.6.0_21-b07" />
-    <property name="debug.test.classpath" value="D:/Java App Continuous Integration/MedRecApp-1/lib/MySQLDriver/mysql-connector-java-5.1.6-bin.jar:lib\CopyLibs\org-netbeans-modules-java-j2seproject-copylibstask.jar:lib\junit\junit-3.8.2.jar:lib\MySQLDriver\mysql-connector-java-5.1.6-bin.jar:build/classes:D:/Java App Continuous Integration/MedRecApp-1/lib/junit_4/junit-4.5.jar:build/test/classes" />
-    <property name="sun.boot.class.path" value="D:\Java App Continuous Integration\MedRecApp-1\${endorsed.classpath};C:\Program Files\Java\jdk1.6.0_21\jre\lib\resources.jar;C:\Program Files\Java\jdk1.6.0_21\jre\lib\rt.jar;C:\Program Files\Java\jdk1.6.0_21\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.6.0_21\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.6.0_21\jre\lib\jce.jar;C:\Program Files\Java\jdk1.6.0_21\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.6.0_21\jre\classes" />
+    <property name="debug.test.classpath" value="D:/Java App Continuous Integration/MedRecApp-2/lib/MySQLDriver/mysql-connector-java-5.1.6-bin.jar:lib\CopyLibs\org-netbeans-modules-java-j2seproject-copylibstask.jar:lib\junit\junit-3.8.2.jar:lib\MySQLDriver\mysql-connector-java-5.1.6-bin.jar:build/classes:D:/Java App Continuous Integration/MedRecApp-2/lib/junit_4/junit-4.5.jar:build/test/classes" />
+    <property name="sun.boot.class.path" value="D:\Java App Continuous Integration\MedRecApp-2\${endorsed.classpath};C:\Program Files\Java\jdk1.6.0_21\jre\lib\resources.jar;C:\Program Files\Java\jdk1.6.0_21\jre\lib\rt.jar;C:\Program Files\Java\jdk1.6.0_21\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.6.0_21\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.6.0_21\jre\lib\jce.jar;C:\Program Files\Java\jdk1.6.0_21\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.6.0_21\jre\classes" />
     <property name="libs.beans-binding.classpath" value="C:\Program Files\NetBeans 6.9.1\java\modules\ext\beansbinding-1.2.1.jar" />
     <property name="have.tests" value="true" />
     <property name="main.class" value="medrecapp.Main" />
@@ -223,7 +223,7 @@
     <property name="libs.spring-framework300.maven-pom" value="" />
     <property name="libs.jaxws21.javadoc" value="C:\Program Files\NetBeans 6.9.1\java\docs\jaxws-api-doc.zip" />
     <property name="javadoc.additionalparam" value="" />
-    <property name="javac.classpath" value="D:/Java App Continuous Integration/MedRecApp-1/lib/MySQLDriver/mysql-connector-java-5.1.6-bin.jar:lib\CopyLibs\org-netbeans-modules-java-j2seproject-copylibstask.jar:lib\junit\junit-3.8.2.jar:lib\MySQLDriver\mysql-connector-java-5.1.6-bin.jar" />
+    <property name="javac.classpath" value="D:/Java App Continuous Integration/MedRecApp-2/lib/MySQLDriver/mysql-connector-java-5.1.6-bin.jar:lib\CopyLibs\org-netbeans-modules-java-j2seproject-copylibstask.jar:lib\junit\junit-3.8.2.jar:lib\MySQLDriver\mysql-connector-java-5.1.6-bin.jar" />
     <property name="default.javac.target" value="1.6" />
     <property name="build.classes.dir" value="build/classes" />
     <property name="do.archive+manifest.available" value="true" />
@@ -239,250 +239,12 @@
     <property name="libs.JWSAntTasks.javadoc" value="" />
     <property name="sun.arch.data.model" value="32" />
   </properties>
-  <testcase classname="medrecapp.Services.PasienServiceTest" name="testServiceInsertPasien" time="325.156" />
-  <testcase classname="medrecapp.Services.PasienServiceTest" name="testServiceUpdatePasien" time="0.063" />
-  <testcase classname="medrecapp.Services.PasienServiceTest" name="testServiceDeletePasien" time="0.058" />
+  <testcase classname="medrecapp.Services.PasienServiceTest" name="testServiceInsertPasien" time="0.935" />
+  <testcase classname="medrecapp.Services.PasienServiceTest" name="testServiceUpdatePasien" time="0.622" />
+  <testcase classname="medrecapp.Services.PasienServiceTest" name="testServiceDeletePasien" time="0.588" />
   <system-out><![CDATA[serviceInsertPasien
 serviceUpdatePasien
 serviceDeletePasien
 ]]></system-out>
-  <system-err><![CDATA[Dec 20, 2013 10:38:49 PM medrecapp.Services.PasienService serviceInsertPasien
-SEVERE: null
-com.mysql.jdbc.exceptions.jdbc4.MySQLNonTransientConnectionException: Connection.close() has already been called. Invalid operation in this state.
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:39)
-	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
-	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
-	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
-	at com.mysql.jdbc.Util.getInstance(Util.java:381)
-	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:984)
-	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:956)
-	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:926)
-	at com.mysql.jdbc.ConnectionImpl.getMutex(ConnectionImpl.java:3018)
-	at com.mysql.jdbc.ConnectionImpl.rollback(ConnectionImpl.java:4564)
-	at medrecapp.Services.PasienService.serviceInsertPasien(PasienService.java:39)
-	at medrecapp.Services.PasienServiceTest.testServiceInsertPasien(PasienServiceTest.java:56)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
-	at java.lang.reflect.Method.invoke(Method.java:597)
-	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:44)
-	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:15)
-	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:41)
-	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:20)
-	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:28)
-	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:31)
-	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:73)
-	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:46)
-	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:180)
-	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:41)
-	at org.junit.runners.ParentRunner$1.evaluate(ParentRunner.java:173)
-	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:28)
-	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:31)
-	at org.junit.runners.ParentRunner.run(ParentRunner.java:220)
-	at junit.framework.JUnit4TestAdapter.run(JUnit4TestAdapter.java:39)
-	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.run(JUnitTestRunner.java:523)
-	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.launch(JUnitTestRunner.java:1063)
-	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.main(JUnitTestRunner.java:914)
-Dec 20, 2013 10:38:49 PM medrecapp.Services.PasienService serviceInsertPasien
-SEVERE: null
-com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
-
-Last packet sent to the server was 322694 ms ago.
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:39)
-	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
-	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
-	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
-	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1074)
-	at com.mysql.jdbc.MysqlIO.send(MysqlIO.java:3246)
-	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1917)
-	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2060)
-	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2536)
-	at com.mysql.jdbc.ConnectionImpl.setAutoCommit(ConnectionImpl.java:4874)
-	at medrecapp.Services.PasienService.serviceInsertPasien(PasienService.java:36)
-	at medrecapp.Services.PasienServiceTest.testServiceInsertPasien(PasienServiceTest.java:56)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
-	at java.lang.reflect.Method.invoke(Method.java:597)
-	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:44)
-	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:15)
-	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:41)
-	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:20)
-	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:28)
-	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:31)
-	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:73)
-	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:46)
-	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:180)
-	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:41)
-	at org.junit.runners.ParentRunner$1.evaluate(ParentRunner.java:173)
-	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:28)
-	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:31)
-	at org.junit.runners.ParentRunner.run(ParentRunner.java:220)
-	at junit.framework.JUnit4TestAdapter.run(JUnit4TestAdapter.java:39)
-	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.run(JUnitTestRunner.java:523)
-	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.launch(JUnitTestRunner.java:1063)
-	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.main(JUnitTestRunner.java:914)
-Caused by: java.net.SocketException: Connection reset by peer: socket write error
-	at java.net.SocketOutputStream.socketWrite0(Native Method)
-	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
-	at java.net.SocketOutputStream.write(SocketOutputStream.java:136)
-	at java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:65)
-	at java.io.BufferedOutputStream.flush(BufferedOutputStream.java:123)
-	at com.mysql.jdbc.MysqlIO.send(MysqlIO.java:3227)
-	... 28 more
-Dec 20, 2013 10:38:49 PM medrecapp.Services.PasienService serviceUpdatePasien
-SEVERE: null
-com.mysql.jdbc.exceptions.jdbc4.MySQLNonTransientConnectionException: Connection.close() has already been called. Invalid operation in this state.
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:39)
-	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
-	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
-	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
-	at com.mysql.jdbc.Util.getInstance(Util.java:381)
-	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:984)
-	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:956)
-	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:926)
-	at com.mysql.jdbc.ConnectionImpl.getMutex(ConnectionImpl.java:3018)
-	at com.mysql.jdbc.ConnectionImpl.rollback(ConnectionImpl.java:4564)
-	at medrecapp.Services.PasienService.serviceUpdatePasien(PasienService.java:55)
-	at medrecapp.Services.PasienServiceTest.testServiceUpdatePasien(PasienServiceTest.java:75)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
-	at java.lang.reflect.Method.invoke(Method.java:597)
-	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:44)
-	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:15)
-	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:41)
-	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:20)
-	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:28)
-	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:31)
-	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:73)
-	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:46)
-	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:180)
-	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:41)
-	at org.junit.runners.ParentRunner$1.evaluate(ParentRunner.java:173)
-	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:28)
-	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:31)
-	at org.junit.runners.ParentRunner.run(ParentRunner.java:220)
-	at junit.framework.JUnit4TestAdapter.run(JUnit4TestAdapter.java:39)
-	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.run(JUnitTestRunner.java:523)
-	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.launch(JUnitTestRunner.java:1063)
-	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.main(JUnitTestRunner.java:914)
-Dec 20, 2013 10:38:49 PM medrecapp.Services.PasienService serviceUpdatePasien
-SEVERE: null
-com.mysql.jdbc.exceptions.jdbc4.MySQLNonTransientConnectionException: Connection.close() has already been called. Invalid operation in this state.
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:39)
-	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
-	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
-	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
-	at com.mysql.jdbc.Util.getInstance(Util.java:381)
-	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:984)
-	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:956)
-	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:926)
-	at com.mysql.jdbc.ConnectionImpl.getMutex(ConnectionImpl.java:3018)
-	at com.mysql.jdbc.ConnectionImpl.setAutoCommit(ConnectionImpl.java:4827)
-	at medrecapp.Services.PasienService.serviceUpdatePasien(PasienService.java:50)
-	at medrecapp.Services.PasienServiceTest.testServiceUpdatePasien(PasienServiceTest.java:75)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
-	at java.lang.reflect.Method.invoke(Method.java:597)
-	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:44)
-	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:15)
-	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:41)
-	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:20)
-	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:28)
-	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:31)
-	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:73)
-	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:46)
-	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:180)
-	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:41)
-	at org.junit.runners.ParentRunner$1.evaluate(ParentRunner.java:173)
-	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:28)
-	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:31)
-	at org.junit.runners.ParentRunner.run(ParentRunner.java:220)
-	at junit.framework.JUnit4TestAdapter.run(JUnit4TestAdapter.java:39)
-	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.run(JUnitTestRunner.java:523)
-	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.launch(JUnitTestRunner.java:1063)
-	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.main(JUnitTestRunner.java:914)
-Dec 20, 2013 10:38:49 PM medrecapp.Services.PasienService serviceDeletePasien
-SEVERE: null
-com.mysql.jdbc.exceptions.jdbc4.MySQLNonTransientConnectionException: Connection.close() has already been called. Invalid operation in this state.
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:39)
-	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
-	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
-	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
-	at com.mysql.jdbc.Util.getInstance(Util.java:381)
-	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:984)
-	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:956)
-	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:926)
-	at com.mysql.jdbc.ConnectionImpl.getMutex(ConnectionImpl.java:3018)
-	at com.mysql.jdbc.ConnectionImpl.rollback(ConnectionImpl.java:4564)
-	at medrecapp.Services.PasienService.serviceDeletePasien(PasienService.java:71)
-	at medrecapp.Services.PasienServiceTest.testServiceDeletePasien(PasienServiceTest.java:88)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
-	at java.lang.reflect.Method.invoke(Method.java:597)
-	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:44)
-	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:15)
-	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:41)
-	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:20)
-	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:28)
-	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:31)
-	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:73)
-	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:46)
-	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:180)
-	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:41)
-	at org.junit.runners.ParentRunner$1.evaluate(ParentRunner.java:173)
-	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:28)
-	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:31)
-	at org.junit.runners.ParentRunner.run(ParentRunner.java:220)
-	at junit.framework.JUnit4TestAdapter.run(JUnit4TestAdapter.java:39)
-	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.run(JUnitTestRunner.java:523)
-	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.launch(JUnitTestRunner.java:1063)
-	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.main(JUnitTestRunner.java:914)
-Dec 20, 2013 10:38:49 PM medrecapp.Services.PasienService serviceDeletePasien
-SEVERE: null
-com.mysql.jdbc.exceptions.jdbc4.MySQLNonTransientConnectionException: Connection.close() has already been called. Invalid operation in this state.
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:39)
-	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
-	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
-	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
-	at com.mysql.jdbc.Util.getInstance(Util.java:381)
-	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:984)
-	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:956)
-	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:926)
-	at com.mysql.jdbc.ConnectionImpl.getMutex(ConnectionImpl.java:3018)
-	at com.mysql.jdbc.ConnectionImpl.setAutoCommit(ConnectionImpl.java:4827)
-	at medrecapp.Services.PasienService.serviceDeletePasien(PasienService.java:66)
-	at medrecapp.Services.PasienServiceTest.testServiceDeletePasien(PasienServiceTest.java:88)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
-	at java.lang.reflect.Method.invoke(Method.java:597)
-	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:44)
-	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:15)
-	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:41)
-	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:20)
-	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:28)
-	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:31)
-	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:73)
-	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:46)
-	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:180)
-	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:41)
-	at org.junit.runners.ParentRunner$1.evaluate(ParentRunner.java:173)
-	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:28)
-	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:31)
-	at org.junit.runners.ParentRunner.run(ParentRunner.java:220)
-	at junit.framework.JUnit4TestAdapter.run(JUnit4TestAdapter.java:39)
-	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.run(JUnitTestRunner.java:523)
-	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.launch(JUnitTestRunner.java:1063)
-	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.main(JUnitTestRunner.java:914)
-]]></system-err>
+  <system-err><![CDATA[]]></system-err>
 </testsuite>
